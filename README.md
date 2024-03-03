@@ -6,13 +6,6 @@ Este é um projeto de automação de teste end-to-end (E2E) utilizando Cypress p
 Clone este repositório: git clone https://github.com/edugitdev/E2E_Cypress.git
 Instale as dependências do projeto: npm install
 
-### Configuração
-Abra o arquivo cypress.json e configure a URL do site que será testado.
-json
-Copy code
-{
-  "baseUrl": "https://www.exemplo.com"
-}
 ### Executando os Testes
 Para abrir o Cypress Test Runner, execute o seguinte comando:
 Copy code
