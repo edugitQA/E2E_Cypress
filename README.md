@@ -3,7 +3,7 @@
 Este é um projeto de automação de teste end-to-end (E2E) utilizando Cypress para um site de compras. O objetivo deste projeto é automatizar testes de login e tabém testes de formulário.
 
 ### Instalação
-Clone este repositório: git clone https://github.com/seu-usuario/nome-do-repositorio.git
+Clone este repositório: git clone https://github.com/edugitdev/E2E_Cypress.git
 Instale as dependências do projeto: npm install
 
 ### Configuração
