@@ -27,8 +27,7 @@ O teste foi realizado no site [Sauce Demo](https://www.saucedemo.com/).
 | 8      | 💵 **Verificação do valor total**: Verifica se o valor total no checkout corresponde ao esperado. |
 | 9      | 🎉 **Finalização da compra**: Finaliza a compra clicando no botão de finalização. |
 | 10     | 📩 **Verificação da mensagem de agradecimento**: Verifica se a mensagem de agradecimento pela compra é exibida corretamente. |
-| 11     | 🏠 **Retorno para a página inicial**: Retorna à página inicial após a conclusão da compra. |
-| 12     | 🔐 **Logout**: Realiza o logout da conta do usuário. |
+
 
 
 ## Pré-requisitos
